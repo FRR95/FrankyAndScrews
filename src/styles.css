@@ -1,1 +1,5 @@
-/* You can add global styles to this file, and also import other style files */
+html {
+    background-color: rgb(217, 219, 219);
+    font-family: "Lucida Console", "Courier New", monospace;
+    cursor: url("src/screws.jpg"), auto;
+}
